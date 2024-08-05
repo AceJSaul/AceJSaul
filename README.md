@@ -22,4 +22,4 @@
 </div>
 
 <br>
-<img src="https://github-readme-stats.vercel.app/api?username={AceJSaul}&theme=blue-green">
+<img src="https://github-readme-stats.vercel.app/api?username=AceJSaul&theme=blue-green">
